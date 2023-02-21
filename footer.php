@@ -1,7 +1,7 @@
 <footer>
    
 
-        <div class="container">
+        <div class="container block">
             <div class="row">
 
                 <div class="col-3 p-2 contact">Contact</div>
@@ -19,7 +19,7 @@
         </div>
         <div class="container">
             <div class="row">
-                <p class="text-center">®Copyright - Le W Company 2023</p>
+                <p class="text-center copyright">®Copyright - Le W Company 2023</p>
             </div>
 
         </div>
