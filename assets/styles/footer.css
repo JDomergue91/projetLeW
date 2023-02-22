@@ -1,5 +1,12 @@
 footer {
     background-color: #0b4100;
-    color: red;
+    color: white;
     
+}
+.elements {
+    display: flex;
+    align-items: center;
+}
+iframe {
+   padding: auto;
 }
