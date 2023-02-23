@@ -1,6 +1,6 @@
 footer {
     background-color: #0b4100;
-    color: white;
+    color: red;
     
 }
 .elements {
@@ -8,5 +8,6 @@ footer {
     align-items: center;
 }
 iframe {
-   padding: auto;
+   display: flex;
+   justify-self: center;
 }
