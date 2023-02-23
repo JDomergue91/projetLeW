@@ -1,13 +1,43 @@
 footer {
     background-color: #0b4100;
-    color: red;
+    color: white;
     
 }
 .elements {
+    color: white;
     display: flex;
     align-items: center;
+    padding: 20px;
+
+    
+}
+
+.contact, .legals {
+    text-decoration: none;
+    color: white;
+    background-color: #0b4100;
+    
+}
+.contact, .legals, .location, .map {
+    display: flex;
+    justify-content: center;
+
+}
+span, a {
+    text-decoration: none;
+}
+span:hover {
+    color: #e14000;
+
 }
 iframe {
-   display: flex;
-   justify-self: center;
+   background-color: white;
+
+}
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
 }
