@@ -17,19 +17,22 @@
 
 
 <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
-      
-       <img classe="img-header" src="./assets/images/timbre.png" alt=""> 
-      
-
-      <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-        <li><a href="#" class="nav-link px-2 link-secondary">Accueil</a></li>
-        <li><a href="#" class="nav-link px-2 link-dark">Collections</a></li>
-        <li><a href="#" class="nav-link px-2 link-dark">Mes collections</a></li>
-      </ul>
-
-      <div class="col-md-3 text-end">
-        <button type="button" class="btn button-header me-2">Connexion</button>
-        <button type="button" class="btn button-header me-2">Profil</button>
+      <div class="container-fluid container-header">
+        <div class="col-3 img-header">
+          <img class="img-header-content" src="./assets/images/timbre.png" alt=""> 
+        </div>
+        <div class="col-6 header-title">
+          <h1 class="header-title-content">W</h1>
+        </div>
+        <div class="col-3 text-end">
+          <button type="button" class="button-header me-2">Connexion</button>
+          <button type="button" class="button-header me-2">Profil</button>
+        </div>
       </div>
+      <ul class=" col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+        <li><a href="" class="nav-link px-2"> <span class="nav-header-hover"> Accueil</span></a></li>
+        <li><a href="#" class="nav-link px-2"><span class="nav-header-hover">Collections</span></a></li>
+        <li><a href="#" class="nav-link px-2"><span class="nav-header-hover">Mes collections</span></a></li>
+      </ul>
     </header>
     
