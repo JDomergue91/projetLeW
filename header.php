@@ -12,6 +12,8 @@
 
     
 
+    <link rel="stylesheet" href="/assets/styles/allStyles.css">
+
 </head>
 <body>
 

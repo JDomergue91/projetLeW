@@ -1,8 +1,3 @@
-.img-header {
-    width: 50%;
-    background-color: red;
-}
-
-.button-header {
-    color:orange;
+header {
+    color: red;
 }

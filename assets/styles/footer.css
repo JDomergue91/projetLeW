@@ -1,3 +1,13 @@
 footer {
+    background-color: #0b4100;
     color: red;
+    
+}
+.elements {
+    display: flex;
+    align-items: center;
+}
+iframe {
+   display: flex;
+   justify-self: center;
 }
