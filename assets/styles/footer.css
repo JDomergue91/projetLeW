@@ -4,10 +4,49 @@ footer {
     
 }
 .elements {
+    color: white;
     display: flex;
     align-items: center;
+    padding: 20px;
+
+    
+}
+.centering {
+    display:flex;
+    justify-content: center;
+    
+}
+
+.contact, .legals {
+    text-decoration: none;
+    color: white;
+    background-color: #0b4100;
+    display: inline-block;
+    
+}
+.contact, .legals, .location, .map {
+    display: flex;
+    justify-content: center;
+
+}
+a, a:hover, a:visited, a:active {
+    text-decoration: none;
+    color: #0b4100;
+}
+
+.contact:hover, .legals:hover{
+    color: #e14000;
+    text-decoration: none;
+
 }
 iframe {
-   display: flex;
-   justify-self: center;
+   background-color: white;
+
+}
+.map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
 }
