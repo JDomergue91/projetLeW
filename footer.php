@@ -12,13 +12,7 @@
                         <br>Nanteau-sur-Lunain
                     
                 </div>
-<<<<<<< HEAD
-
-                <div class="col-3 la-carte">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5312.766994145201!2d2.8013632489946123!3d48.25699401281025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ef63b251d0f313%3A0x33b2f327186b7183!2s2%20Rue%20des%20Arches%2C%2077710%20Nanteau-sur-Lunain!5e0!3m2!1sfr!2sfr!4v1676905964933!5m2!1sfr!2sfr" width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
-=======
                 <div class="col-6 map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5312.766994145201!2d2.8013632489946123!3d48.25699401281025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ef63b251d0f313%3A0x33b2f327186b7183!2s2%20Rue%20des%20Arches%2C%2077710%20Nanteau-sur-Lunain!5e0!3m2!1sfr!2sfr!4v1676905964933!5m2!1sfr!2sfr" width="450" height="300" style="border: 50px;;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
->>>>>>> origin/maxime
                 </div>
 
                 
