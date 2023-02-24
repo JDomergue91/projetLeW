@@ -11,11 +11,17 @@ footer {
 
     
 }
+.centering {
+    display:flex;
+    justify-content: center;
+    
+}
 
 .contact, .legals {
     text-decoration: none;
     color: white;
     background-color: #0b4100;
+    display: inline-block;
     
 }
 .contact, .legals, .location, .map {
@@ -23,11 +29,14 @@ footer {
     justify-content: center;
 
 }
-span, a {
+a, a:hover, a:visited, a:active {
     text-decoration: none;
+    color: #0b4100;
 }
-span:hover {
+
+.contact:hover, .legals:hover{
     color: #e14000;
+    text-decoration: none;
 
 }
 iframe {
