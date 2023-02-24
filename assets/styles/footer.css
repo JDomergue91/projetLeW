@@ -3,6 +3,10 @@ footer {
     color: white;
     
 }
+
+.kill-underline {
+    text-decoration: none !important;
+}
 .elements {
     color: white;
     display: flex;
@@ -18,10 +22,10 @@ footer {
 }
 
 .contact, .legals {
-    text-decoration: none;
+    text-decoration: none !important; 
     color: white;
     background-color: #0b4100;
-    display: inline-block;
+    
     
 }
 .contact, .legals, .location, .map {
@@ -29,10 +33,7 @@ footer {
     justify-content: center;
 
 }
-a, a:hover, a:visited, a:active {
-    text-decoration: none;
-    color: #0b4100;
-}
+
 
 .contact:hover, .legals:hover{
     color: #e14000;
