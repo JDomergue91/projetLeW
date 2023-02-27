@@ -9,6 +9,10 @@
 }
 
 .imageAccueil { 
-    height:30cm
+    height:30cm;
+    display: block;
+    margin-left:25%;
+    margin-right:0%;
+    
 
 }
