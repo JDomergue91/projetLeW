@@ -1,6 +1,9 @@
 <?php include './header.php'; ?>
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
 <img src="phototimbre.jpg" alt="image page d'accueil" class ="imageAccueil">
 </br>
 </br>
