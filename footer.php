@@ -4,8 +4,8 @@
         <div class="container-fluid block elements">
             
 
-                <div class="col-2 centering"><a href="#"><span class="contact">Contact</span></a></div>
-                <div class="col-2 centering"><a href="#"><span class="legals">Mentions Légales</span></a></div>
+                <div class="col-2 centering"><a class="linking" href="#"><span class="contact">Contact</span></a></div>
+                <div class="col-2 centering"><a class="linking" href="#"><span class="legals">Mentions Légales</span></a></div>
                 <div class="col-2 centering">Coordonnées :
                         <br> 2 Rue des Arches 
                         <br>77710
