@@ -7,7 +7,7 @@ $pages = [
     "accueil" => "./pages/accueil.php",
     "allCollections" => "./pages/affichageAllCollections.php",
     "contact" => "./pages/contact.php",
-    
+    "mentionsLegales" => "./pages/mentionLegal.php",
 ];
 
 // Page par defaut si le parametre "page" n'est pas présent dans l'URL
