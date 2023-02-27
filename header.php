@@ -25,7 +25,7 @@
           <h1 class="header-title-content">W</h1>
         </div>
         <div class="col-3 text-end">
-          <button type="button" class="button-header me-2">Connexion</button>
+          <button type="button"  class="button-header me-2"><a href="/connexion">Connexion</></button>
           <button type="button" class="button-header me-2">Profil</button>
         </div>
       </div>

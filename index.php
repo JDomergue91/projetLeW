@@ -7,6 +7,7 @@ $pages = [
     "accueil" => "./pages/accueil.php",
     "allCollections" => "./pages/affichageAllCollections.php",
     "contact" => "./pages/contact.php",
+    "connexion" => "./pages/connexion.php",
     
 ];
 
