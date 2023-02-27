@@ -1,3 +1,7 @@
 .accueil {
     color: red;
 }
+
+.texteAccueil {
+    list-style-type: lower-greek;
+}
