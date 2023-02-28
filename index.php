@@ -19,7 +19,7 @@ switch ($page) {
         break;
         
     case 'login-action':
-        check_login(trim($_POST['email-username']), trim($_POST['password']));
+        check_login(trim($_POST['email']), trim($_POST['password']));
         break;    
     case 'logout':
         logout();
