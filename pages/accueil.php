@@ -4,7 +4,7 @@
 </br>
 </br>
 </br>
-<img src="phototimbre.jpg" alt="image page d'accueil" class ="imageAccueil">
+<img src="./assets/images/img-homePage.jpg" alt="image de plusieurs timbres " class ="imageAccueil">
 </br>
 </br>
 </br>
