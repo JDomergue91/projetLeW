@@ -1,0 +1,19 @@
+.admin-list {
+    list-style: none;
+    display: flex;
+}
+
+
+
+.admin-list-element{
+    margin: 10px;
+    font-weight: bold;
+}
+.admin-list-element:hover {
+    color: #e14000;
+}
+
+.title-admin-main {
+    display: flex;
+    justify-content: center;
+}
