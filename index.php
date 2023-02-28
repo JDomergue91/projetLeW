@@ -14,7 +14,7 @@ switch ($page) {
         $controller = './pages/accueil.php';
         break;
 
-    case 'login':
+    case 'connexion':
         $controller = './pages/connexion.php';
         break;
         

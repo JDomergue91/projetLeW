@@ -7,7 +7,7 @@
             <div class="card z-index-0 fadeIn3 fadeInBottom">
                 <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                     <div class="bg-gradient-primary shadow-primary border-radius-lg py-3 pe-1">
-                        <h4 class="text-white font-weight-bolder text-center mt-2 mb-0">Se connecter</h4>
+                        <h4 class="text-white font-weight-bolder text-center mt-2 mb-0">S</h4>
                         <div class="row mt-3">
                             <div class="col-2 text-center ms-auto">
                                 <a class="btn btn-link px-3" href="javascript:;">
@@ -47,8 +47,12 @@
                     </div>
                     <div class="text-center"><button type="button" class="btn bg-gradient-primary w-100 my-4 mb-2">Se connecter</button>
                 </div>
-                <p class="mt-4 text-sm text-center">Vous n'avez pas de compte?<a href="../pages/sign-up.html" class="text-primary text-gradient font-weight-bold">S'inscrire
-
+                <p class="mt-4 text-sm text-center">Vous n'avez pas de compte?
+                </br>
+                <a href="../pages/sign-up.html" class="text-primary text-gradient font-weight-bold">S'inscrire
+                <p class="mt-4 text-sm text-center">Mot de passe oublié?
+                </br>
+                <a href="../pages/sign-up.html" class="text-primary text-gradient font-weight-bold">Cliquez içi
                 </a>
             </p>
         </form>
