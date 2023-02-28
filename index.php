@@ -25,8 +25,10 @@ switch ($page) {
         logout();
         break;  
         
-    case 'mentionsLegales':
+    case 'mentions-legales':
         $controller = './pages/mentionsLegales.php';
+        break;
+        
     
             
     default:
